@@ -1,0 +1,21 @@
+101|Rahul Sharma|B.Tech CSE|2|85
+102|Priya Shah|B.Tech CSE|2|91
+103|Aarav Mehta|B.Tech CSE|1|78
+104|Ananya Verma|B.Tech IT|3|88
+105|Rohan Patel|B.Tech CSE|4|74
+106|Sneha Kulkarni|B.Tech AI & DS|2|93
+107|Aditya Singh|B.Tech CSE|1|81
+108|Ishita Gupta|B.Tech IT|3|89
+109|Arjun Nair|B.Tech CSE|2|76
+110|Kavya Iyer|B.Tech AI & DS|4|95
+111|Vivek Joshi|B.Tech CSE|3|84
+112|Meera Desai|B.Tech IT|2|90
+113|Karan Malhotra|B.Tech CSE|4|72
+114|Riya Kapoor|B.Tech AI & DS|1|87
+115|Siddharth Rao|B.Tech CSE|3|79
+116|Neha Mishra|B.Tech IT|2|94
+117|Yash Thakur|B.Tech CSE|1|83
+118|Diya Shah|B.Tech AI & DS|3|92
+119|Manav Agarwal|B.Tech CSE|4|77
+120|Aditi Banerjee|B.Tech IT|3|86
+1500|Rohit|Mtech|8|80
